@@ -1,0 +1,234 @@
+/*CSS Rest */
+*{
+	box-sizing:border-box;
+}
+
+body,h1,h2,p,ul {
+	margin:0px;
+	font-size: 16px;
+
+}
+
+/*TYPO*/
+h1,h2,h3,h4,h5,p,ul {
+	font-family: "NittiGrotesk";
+	color: #3f3f3f;
+}
+
+h1{
+	font-size: 60px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+	padding-top: 200px;
+	
+
+}
+
+
+
+/*Funktionen1*/
+h2{
+	font-size: 60px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+
+
+}
+ p{
+	font-size: 24px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+
+
+	
+ }
+
+
+/*Kategorie*/ 
+h3{
+	font-size: 60px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+	color: #fff;
+
+}
+
+ p{
+	font-size: 24px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+
+
+ }
+
+/*Etats*/
+h4{
+	font-size: 60px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+
+
+}
+
+
+h5{
+	font-size: 60px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+	color: #fff;
+
+}
+
+ p{
+	font-size: 24px;
+	margin-bottom: 15px;
+	font-weight: lighter;
+
+
+
+ }
+
+
+
+
+
+
+/*layout*/
+
+
+
+body {
+	background-color: rgb(100,100,100)
+}
+.hauptSection{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #FFF;
+	padding: 20px;
+}
+.Satz{
+	width:700px;
+	padding-left: 200px;
+	margin: 0px;
+	float:left;
+}
+.iphonehead{
+	padding-top: 200px;
+	padding-right: 170px;
+	width: 400px;
+	float:right;
+
+}
+
+
+.Iconset{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #f2f2f2;
+	padding: 20px;
+
+}
+
+
+
+.FunktionenEins{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	padding: 20px;
+
+}
+
+.Einnahmen{
+/*h2 und p*/
+	
+	
+	padding-left: 600px;
+	padding-top: 200px;
+	padding-right: 150px;
+
+
+
+}
+
+.iphoneeinnhamen{
+	padding-top: 200px;
+	width: 400px;
+	float:left;
+
+}
+
+
+.Kategorie{
+	/*h3 und p*/
+	padding-left: 150px;
+	padding-top: 200px;
+	padding-right: 600px;
+
+
+}
+
+.Etats{
+	/*h4 und p*/
+
+	padding-left: 600px;
+	padding-top: 200px;
+	padding-right: 150px;
+}
+
+.Schutz{
+	/*h5*/
+	padding-left: 600px;
+	padding-right: 150px;
+}
+
+
+.FunktionenZwei{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #3fb297;
+	padding: 20px;
+
+}
+
+
+.FunktionenDrei{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #f2f2f2;
+	padding: 20px;
+
+}
+
+.Video{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	padding: 20px;
+
+}
+
+.Datenschutz{
+	width: 1280px;
+	height:360px;
+	margin: 0px auto 0px auto;
+	background-color: #6f6f6f;
+	padding: 20px;
+
+}
+
+.Update{
+	width: 1280px;
+	height:720px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	padding: 20px;
+
+}
+
